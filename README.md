@@ -1,2 +1,2 @@
-# jjzx-api
-家居在线数据api文件
+# jiajuzaixian_service
+基于node.js的家居在线后台服务器
